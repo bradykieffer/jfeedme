@@ -1,0 +1,6 @@
+[package]
+name = "jfeedme"
+version = "0.1.0"
+authors = ["Brady Kieffer <bradykieffer@gmail.com>"]
+
+[dependencies]
